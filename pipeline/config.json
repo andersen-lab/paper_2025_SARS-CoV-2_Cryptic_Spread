@@ -1,0 +1,15 @@
+{
+  "out_dir": "out_dir",
+  "bed_file": "",
+  "primer_pairs": "",
+  "gff3_file": "NC_045512.2.gff3",
+  "ref_fasta": "NC045512.fasta",
+  "library_delimiter": "_",
+  "samples_path": "samples.tsv",
+  "illumina": {
+    "reference": "NC045512_bwa"
+  },
+  "ont": {
+    "reference": "NC045512"
+  }
+}
