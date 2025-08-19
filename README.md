@@ -16,6 +16,10 @@
 - **Persistence Summarizer Log:** [`region.states.log`](./BEAST/Omicron/persistence/region.states.log)
 - **Persistence Summary:** [`summary/`](./BEAST/Omicron/persistence/summary/)
 
+## Supplementary Data
+- **Delta Restrictions for investigated countries:** [`delta_restrictions.csv`](./supplementary/delta_restrictions.csv)
+- **Omicron Restrictions for investigated countries:** [`omicron_restrictions.csv`](./supplementary/omicron_restrictions.csv)
+
 ## Folder Structure
 
 ```
@@ -30,6 +34,9 @@ BEAST/
 │   ├── Omicron_discrete.xml
 │   ├── Omicron.log
 │   └── persistence/
+└── supplementary/
+    ├── delta_restrictions.csv
+    └── omicron_restrictions.csv
 ```
 
 **Data Source:**   
